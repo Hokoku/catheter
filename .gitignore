@@ -1,3 +1,4 @@
 *.h5
 
 /models/efficientnet_output*.csv
+/models/autoencoder_splits10
