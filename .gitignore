@@ -3,3 +3,4 @@
 /models/efficientnet_output*.csv
 /models/autoencoder_splits10
 /models/eff_dense
+/models/model.h5.zip
