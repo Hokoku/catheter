@@ -6,3 +6,5 @@
 /models/model.h5.zip
 /models/effnet_tuned
 /models/effnet_finetune
+/models/autoencoder_tuned
+/models/effnet_tuned_dense
