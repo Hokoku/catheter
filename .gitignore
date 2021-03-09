@@ -8,3 +8,4 @@
 /models/effnet_finetune
 /models/autoencoder_tuned
 /models/effnet_tuned_dense
+/models/effnet_tuned_dense_withoutAE
