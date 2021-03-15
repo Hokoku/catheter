@@ -11,3 +11,4 @@
 /models/effnet_tuned_dense_withoutAE
 /models/efficientnet-b7_noisy-student_notop
 /models/pspnet_ckpt
+/models/segmentation_models-master
